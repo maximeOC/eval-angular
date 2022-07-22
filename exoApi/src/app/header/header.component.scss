@@ -1,0 +1,20 @@
+@import '~bootstrap';
+nav{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  flex-direction: row;
+
+}
+.l{
+  width: 100px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  background-color: #6c6cec;
+  border-radius: 5px;
+
+}
+a{
+  text-underline: none;
+  color: black;
+}
